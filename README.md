@@ -1,1 +1,1 @@
-# yarg-mtaclanserver
+# garibanlar-sunucusu
